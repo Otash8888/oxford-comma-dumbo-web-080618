@@ -1,5 +1,11 @@
 def oxford_comma(array)
-  i
+  if array.size == 1 
+    
+  elsif array.size == 2
+  
+  elsif array.size == 3
+  
+  end
   
   
   
