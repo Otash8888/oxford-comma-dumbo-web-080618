@@ -10,8 +10,8 @@ def oxford_comma(array)
   elsif array.size > 3
  
  last_value = array.pop
+ array.push("and #{last_value}") 
+array.join(", ")
   
-  # a_string = array.join(", ")
-  # a_string.insert(-14,"and ")
   end
 end
