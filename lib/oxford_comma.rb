@@ -5,6 +5,8 @@ def oxford_comma(array)
   
   elsif array.size == 3
   
+  elsif array.size > 3
+  
   end
   
   
